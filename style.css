@@ -236,6 +236,9 @@ p{
     html{
         font-size: 65%
     }
+    .social-section{
+        width: 80%;
+    }
     .review-category{
         width: 70% ;
     }
